@@ -1,6 +1,6 @@
 {
     "name": "MySensor",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Troy Demet <tademet@acegroup.cc>",
     "license": "Choose a license",
     "description": "This is a Particle port of MySensor (mysensors.org)"
