@@ -13,11 +13,11 @@
 #define __RF24_CONFIG_H__
 	#include "MyConfig.h"
 
-  #if ARDUINO < 100
-	#include <WProgram.h>
-  #else
-	#include <Arduino.h>
-  #endif
+  //#if ARDUINO < 100
+//	#include <WProgram.h>
+//  #else
+	#include  "Arduino/Arduino.h"
+//  #endif
 
   #include <stddef.h>
 
