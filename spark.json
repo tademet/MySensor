@@ -1,7 +1,7 @@
 {
     "name": "MySensors",
     "version": "0.0.1",
-    "author": "Someone <email@somesite.com>",
+    "author": "Troy Demet <tademet@acegroup.cc>",
     "license": "Choose a license",
-    "description": "Briefly describe this library"
+    "description": "This is a Particle port of MySensors (mysensors.org)"
 }
