@@ -11,7 +11,7 @@
 
 #ifndef __RF24_CONFIG_H__
 #define __RF24_CONFIG_H__
-	#include <MyConfig.h>
+	#include "MyConfig.h"
 
   #if ARDUINO < 100
 	#include <WProgram.h>
